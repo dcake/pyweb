@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<source>
+    <date>
+        <username>admin</username>
+        <passwd>123456</passwd>
+    </date>
+    <date>
+        <username>admin</username>
+        <passwd>admin</passwd>
+    </date>
+    <date>
+        <username>admin</username>
+        <passwd>qqqqqq</passwd>
+    </date>
+</source>
